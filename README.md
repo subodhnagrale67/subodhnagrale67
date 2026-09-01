@@ -6,7 +6,7 @@
 🚀 ABOUT ME
 <sub> 🎓 Pursuing an Integrated BCA + MCA degree <br> 💻 Currently learning C and Python <br> 🧮 Interested in Mathematics and Logical Problem Solving <br> 🌱 Learning something new every day <br> 🎯 Working towards becoming a strong programmer </sub>
 💻 LANGUAGES & TOOLS
-<p align="center"> <img src="https://media.istockphoto.com/id/523761634/photo/cute-panda-bear-climbing-in-tree.jpg?s=612x612&w=0&k=20&c=TxsmORsbuY1LpxQsc6T8fpWJo7lBwncciYhroAr8rXI=" /> </p> <p align="center"> <sub>Currently learning • Practicing • Exploring</sub> </p>
+<p align="center"> <img src="xyz.pvt this is panda image" /> </p> <p align="center"> <sub>Currently learning • Practicing • Exploring</sub> </p>
 🧠 CURRENTLY LEARNING
 <sub>
 
